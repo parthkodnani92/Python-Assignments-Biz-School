@@ -1,0 +1,1 @@
+In Assignment 4, we explored the Pandas library in Python. We do some EDA of the dataset, and we clean and process the impure variables. Variable types include numerical and categorical and Data types included Numbers, Strings and Dates. Then we do some basic Data Analysis and we answer specific questions related to the data using intuitive visualizations. 
