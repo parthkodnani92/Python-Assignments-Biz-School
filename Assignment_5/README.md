@@ -1,0 +1,1 @@
+In Assignment 5, we further deep dive down into the Pandas library. We use list comprehensions, complex groupby functions and also multi-indexing columns. The dataset is about ETFs and we answer questions to find out the most socially responsible ETFs.
